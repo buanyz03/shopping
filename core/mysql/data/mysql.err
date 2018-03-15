@@ -1,0 +1,273 @@
+140623 13:56:59 [Note] Plugin 'FEDERATED' is disabled.
+140623 13:56:59 InnoDB: The InnoDB memory heap is disabled
+140623 13:56:59 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+140623 13:56:59 InnoDB: Compressed tables use zlib 1.2.3
+140623 13:56:59 InnoDB: Initializing buffer pool, size = 16.0M
+140623 13:56:59 InnoDB: Completed initialization of buffer pool
+140623 13:56:59 InnoDB: highest supported file format is Barracuda.
+140623 13:56:59  InnoDB: Waiting for the background threads to start
+140623 13:57:00 InnoDB: 5.5.37 started; log sequence number 1595675
+140623 13:57:00 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+140623 13:57:00 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+140623 13:57:00 [Note] Server socket created on IP: '127.0.0.1'.
+140623 13:57:00 [Note] Event Scheduler: Loaded 0 events
+140623 13:57:00 [Note] C:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140624  8:50:44 [Note] Plugin 'FEDERATED' is disabled.
+140624  8:50:44 InnoDB: The InnoDB memory heap is disabled
+140624  8:50:44 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+140624  8:50:44 InnoDB: Compressed tables use zlib 1.2.3
+140624  8:50:44 InnoDB: Initializing buffer pool, size = 16.0M
+140624  8:50:44 InnoDB: Completed initialization of buffer pool
+140624  8:50:44 InnoDB: highest supported file format is Barracuda.
+140624  8:50:44  InnoDB: Waiting for the background threads to start
+140624  8:50:45 InnoDB: 5.5.37 started; log sequence number 1595675
+140624  8:50:45 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+140624  8:50:45 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+140624  8:50:45 [Note] Server socket created on IP: '127.0.0.1'.
+140624  8:50:45 [Note] Event Scheduler: Loaded 0 events
+140624  8:50:45 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140624 10:49:20 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Normal shutdown
+
+140624 10:49:20 [Note] Event Scheduler: Purging the queue. 0 events
+140624 10:49:20  InnoDB: Starting shutdown...
+140624 10:49:21  InnoDB: Shutdown completed; log sequence number 1595675
+140624 10:49:21 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Shutdown complete
+
+140624 11:08:54 [Note] Plugin 'FEDERATED' is disabled.
+140624 11:08:54 InnoDB: The InnoDB memory heap is disabled
+140624 11:08:54 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+140624 11:08:54 InnoDB: Compressed tables use zlib 1.2.3
+140624 11:08:54 InnoDB: Initializing buffer pool, size = 16.0M
+140624 11:08:54 InnoDB: Completed initialization of buffer pool
+140624 11:08:54 InnoDB: highest supported file format is Barracuda.
+140624 11:08:54  InnoDB: Waiting for the background threads to start
+140624 11:08:55 InnoDB: 5.5.37 started; log sequence number 1595675
+140624 11:08:55 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+140624 11:08:55 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+140624 11:08:55 [Note] Server socket created on IP: '127.0.0.1'.
+140624 11:08:55 [Note] Event Scheduler: Loaded 0 events
+140624 11:08:55 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140624 14:25:07 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Normal shutdown
+
+140624 14:25:07 [Note] Event Scheduler: Purging the queue. 0 events
+140624 14:25:07  InnoDB: Starting shutdown...
+140624 14:25:08  InnoDB: Shutdown completed; log sequence number 1595675
+140624 14:25:08 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Shutdown complete
+
+140624 14:25:26 [Note] Plugin 'FEDERATED' is disabled.
+140624 14:25:26 InnoDB: The InnoDB memory heap is disabled
+140624 14:25:26 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+140624 14:25:26 InnoDB: Compressed tables use zlib 1.2.3
+140624 14:25:26 InnoDB: Initializing buffer pool, size = 16.0M
+140624 14:25:26 InnoDB: Completed initialization of buffer pool
+140624 14:25:27 InnoDB: highest supported file format is Barracuda.
+140624 14:25:27  InnoDB: Waiting for the background threads to start
+140624 14:25:28 InnoDB: 5.5.37 started; log sequence number 1595675
+140624 14:25:28 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+140624 14:25:28 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+140624 14:25:28 [Note] Server socket created on IP: '127.0.0.1'.
+140624 14:25:28 [Note] Event Scheduler: Loaded 0 events
+140624 14:25:28 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140624 20:19:54 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Normal shutdown
+
+140624 20:19:54 [Note] Event Scheduler: Purging the queue. 0 events
+140624 20:19:54  InnoDB: Starting shutdown...
+140624 20:19:54  InnoDB: Shutdown completed; log sequence number 1595675
+140624 20:19:54 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Shutdown complete
+
+140624 20:42:27 [Note] Plugin 'FEDERATED' is disabled.
+140624 20:42:27 InnoDB: The InnoDB memory heap is disabled
+140624 20:42:27 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+140624 20:42:27 InnoDB: Compressed tables use zlib 1.2.3
+140624 20:42:27 InnoDB: Initializing buffer pool, size = 16.0M
+140624 20:42:27 InnoDB: Completed initialization of buffer pool
+140624 20:42:27 InnoDB: highest supported file format is Barracuda.
+140624 20:42:27  InnoDB: Waiting for the background threads to start
+140624 20:42:28 InnoDB: 5.5.37 started; log sequence number 1595675
+140624 20:42:28 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+140624 20:42:28 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+140624 20:42:28 [Note] Server socket created on IP: '127.0.0.1'.
+140624 20:42:28 [Note] Event Scheduler: Loaded 0 events
+140624 20:42:28 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140625  1:06:54 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Normal shutdown
+
+140625  1:06:54 [Note] Event Scheduler: Purging the queue. 0 events
+140625  1:06:54  InnoDB: Starting shutdown...
+140625  1:06:54  InnoDB: Shutdown completed; log sequence number 1595675
+140625  1:06:54 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Shutdown complete
+
+140625  1:36:34 [Note] Plugin 'FEDERATED' is disabled.
+140625  1:36:34 InnoDB: The InnoDB memory heap is disabled
+140625  1:36:34 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+140625  1:36:34 InnoDB: Compressed tables use zlib 1.2.3
+140625  1:36:34 InnoDB: Initializing buffer pool, size = 16.0M
+140625  1:36:34 InnoDB: Completed initialization of buffer pool
+140625  1:36:34 InnoDB: highest supported file format is Barracuda.
+140625  1:36:34  InnoDB: Waiting for the background threads to start
+140625  1:36:35 InnoDB: 5.5.37 started; log sequence number 1595675
+140625  1:36:35 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+140625  1:36:35 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+140625  1:36:35 [Note] Server socket created on IP: '127.0.0.1'.
+140625  1:36:35 [Note] Event Scheduler: Loaded 0 events
+140625  1:36:35 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140625  2:05:02 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Normal shutdown
+
+140625  2:05:02 [Note] Event Scheduler: Purging the queue. 0 events
+140625  2:05:02  InnoDB: Starting shutdown...
+140625  2:05:03  InnoDB: Shutdown completed; log sequence number 1595675
+140625  2:05:03 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Shutdown complete
+
+140625  2:05:03 [Note] Plugin 'FEDERATED' is disabled.
+140625  2:05:03 InnoDB: The InnoDB memory heap is disabled
+140625  2:05:03 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+140625  2:05:03 InnoDB: Compressed tables use zlib 1.2.3
+140625  2:05:03 InnoDB: Initializing buffer pool, size = 16.0M
+140625  2:05:03 InnoDB: Completed initialization of buffer pool
+140625  2:05:03 InnoDB: highest supported file format is Barracuda.
+140625  2:05:03  InnoDB: Waiting for the background threads to start
+140625  2:05:04 InnoDB: 5.5.37 started; log sequence number 1595675
+140625  2:05:04 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+140625  2:05:04 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+140625  2:05:04 [Note] Server socket created on IP: '127.0.0.1'.
+140625  2:05:04 [Note] Event Scheduler: Loaded 0 events
+140625  2:05:04 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140625  2:05:05 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Normal shutdown
+
+140625  2:05:05 [Note] Event Scheduler: Purging the queue. 0 events
+140625  2:05:05  InnoDB: Starting shutdown...
+140625  2:05:06  InnoDB: Shutdown completed; log sequence number 1595675
+140625  2:05:06 [Note] E:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Shutdown complete
+
+140625  9:05:32 [Note] Plugin 'FEDERATED' is disabled.
+140625  9:05:32 InnoDB: The InnoDB memory heap is disabled
+140625  9:05:32 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+140625  9:05:32 InnoDB: Compressed tables use zlib 1.2.3
+140625  9:05:32 InnoDB: Initializing buffer pool, size = 16.0M
+140625  9:05:32 InnoDB: Completed initialization of buffer pool
+140625  9:05:32 InnoDB: highest supported file format is Barracuda.
+140625  9:05:32  InnoDB: Waiting for the background threads to start
+140625  9:05:33 InnoDB: 5.5.37 started; log sequence number 1595675
+140625  9:05:33 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+140625  9:05:33 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+140625  9:05:33 [Note] Server socket created on IP: '127.0.0.1'.
+140625  9:05:33 [Note] Event Scheduler: Loaded 0 events
+140625  9:05:33 [Note] C:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+140625  9:48:43 [Note] Plugin 'FEDERATED' is disabled.
+140625  9:48:43 InnoDB: The InnoDB memory heap is disabled
+140625  9:48:43 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+140625  9:48:43 InnoDB: Compressed tables use zlib 1.2.3
+140625  9:48:43 InnoDB: Initializing buffer pool, size = 16.0M
+140625  9:48:43 InnoDB: Completed initialization of buffer pool
+140625  9:48:43 InnoDB: highest supported file format is Barracuda.
+140625  9:48:43  InnoDB: Waiting for the background threads to start
+140625  9:48:44 InnoDB: 5.5.37 started; log sequence number 1595675
+140625  9:48:44 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+140625  9:48:44 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+140625  9:48:44 [Note] Server socket created on IP: '127.0.0.1'.
+140625  9:48:44 [Note] Event Scheduler: Loaded 0 events
+140625  9:48:44 [Note] C:\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+141006 22:49:48 [Note] Plugin 'FEDERATED' is disabled.
+141006 22:49:48 InnoDB: The InnoDB memory heap is disabled
+141006 22:49:48 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+141006 22:49:48 InnoDB: Compressed tables use zlib 1.2.3
+141006 22:49:48 InnoDB: Initializing buffer pool, size = 16.0M
+141006 22:49:48 InnoDB: Completed initialization of buffer pool
+141006 22:49:48 InnoDB: highest supported file format is Barracuda.
+141006 22:49:48  InnoDB: Waiting for the background threads to start
+141006 22:49:49 InnoDB: 5.5.37 started; log sequence number 1595675
+141006 22:49:49 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141006 22:49:49 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141006 22:49:49 [Note] Server socket created on IP: '127.0.0.1'.
+141006 22:49:49 [Note] Event Scheduler: Loaded 0 events
+141006 22:49:49 [Note] D:\Dropbox\報告\已結案\資料庫理論\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+141006 22:49:57 [Note] D:\Dropbox\報告\已結案\資料庫理論\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Normal shutdown
+
+141006 22:49:57 [Note] Event Scheduler: Purging the queue. 0 events
+141006 22:49:57  InnoDB: Starting shutdown...
+141006 22:49:58  InnoDB: Shutdown completed; log sequence number 1595675
+141006 22:49:58 [Note] D:\Dropbox\報告\已結案\資料庫理論\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Shutdown complete
+
+150409 13:40:02 [Note] Plugin 'FEDERATED' is disabled.
+150409 13:40:02 InnoDB: The InnoDB memory heap is disabled
+150409 13:40:02 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+150409 13:40:02 InnoDB: Compressed tables use zlib 1.2.3
+150409 13:40:02 InnoDB: Initializing buffer pool, size = 16.0M
+150409 13:40:02 InnoDB: Completed initialization of buffer pool
+150409 13:40:02 InnoDB: highest supported file format is Barracuda.
+150409 13:40:02  InnoDB: Waiting for the background threads to start
+150409 13:40:03 InnoDB: 5.5.37 started; log sequence number 1595675
+150409 13:40:03 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+150409 13:40:03 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+150409 13:40:03 [Note] Server socket created on IP: '127.0.0.1'.
+150409 13:40:04 [Note] Event Scheduler: Loaded 0 events
+150409 13:40:04 [Note] C:\Dropbox\報告\已結案\資料庫理論\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150409 13:40:42 [Note] C:\Dropbox\報告\已結案\資料庫理論\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Normal shutdown
+
+150409 13:40:42 [Note] Event Scheduler: Purging the queue. 0 events
+150409 13:40:42  InnoDB: Starting shutdown...
+150409 13:40:43  InnoDB: Shutdown completed; log sequence number 1595675
+150409 13:40:43 [Note] C:\Dropbox\報告\已結案\資料庫理論\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Shutdown complete
+
+150409 13:40:43 [Note] Plugin 'FEDERATED' is disabled.
+150409 13:40:43 InnoDB: The InnoDB memory heap is disabled
+150409 13:40:43 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+150409 13:40:43 InnoDB: Compressed tables use zlib 1.2.3
+150409 13:40:43 InnoDB: Initializing buffer pool, size = 16.0M
+150409 13:40:43 InnoDB: Completed initialization of buffer pool
+150409 13:40:43 InnoDB: highest supported file format is Barracuda.
+150409 13:40:43  InnoDB: Waiting for the background threads to start
+150409 13:40:44 InnoDB: 5.5.37 started; log sequence number 1595675
+150409 13:40:44 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+150409 13:40:44 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+150409 13:40:44 [Note] Server socket created on IP: '127.0.0.1'.
+150409 13:40:44 [Note] Event Scheduler: Loaded 0 events
+150409 13:40:44 [Note] C:\Dropbox\報告\已結案\資料庫理論\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150409 13:40:45 [Note] C:\Dropbox\報告\已結案\資料庫理論\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Normal shutdown
+
+150409 13:40:45 [Note] Event Scheduler: Purging the queue. 0 events
+150409 13:40:45  InnoDB: Starting shutdown...
+150409 13:40:45  InnoDB: Shutdown completed; log sequence number 1595675
+150409 13:40:45 [Note] C:\Dropbox\報告\已結案\資料庫理論\shopping\trunk\ShoppingServer\core\mysql\bin\mysqld_z.exe: Shutdown complete
+
+180314 21:22:32 [Note] Plugin 'FEDERATED' is disabled.
+180314 21:22:32 InnoDB: The InnoDB memory heap is disabled
+180314 21:22:32 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+180314 21:22:32 InnoDB: Compressed tables use zlib 1.2.3
+180314 21:22:32 InnoDB: Initializing buffer pool, size = 16.0M
+180314 21:22:32 InnoDB: Completed initialization of buffer pool
+180314 21:22:32 InnoDB: highest supported file format is Barracuda.
+180314 21:22:32  InnoDB: Waiting for the background threads to start
+180314 21:22:33 InnoDB: 5.5.37 started; log sequence number 1595675
+180314 21:22:33 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+180314 21:22:33 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+180314 21:22:33 [Note] Server socket created on IP: '127.0.0.1'.
+180314 21:22:33 [Note] Event Scheduler: Loaded 0 events
+180314 21:22:33 [Note] C:\Users\Administrator\Dropbox\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
+180315  9:29:55 [Note] Plugin 'FEDERATED' is disabled.
+180315  9:29:55 InnoDB: The InnoDB memory heap is disabled
+180315  9:29:55 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+180315  9:29:55 InnoDB: Compressed tables use zlib 1.2.3
+180315  9:29:55 InnoDB: Initializing buffer pool, size = 16.0M
+180315  9:29:55 InnoDB: Completed initialization of buffer pool
+180315  9:29:55 InnoDB: highest supported file format is Barracuda.
+180315  9:29:55  InnoDB: Waiting for the background threads to start
+180315  9:29:56 InnoDB: 5.5.37 started; log sequence number 1595675
+180315  9:29:56 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+180315  9:29:56 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+180315  9:29:56 [Note] Server socket created on IP: '127.0.0.1'.
+180315  9:29:57 [Note] Event Scheduler: Loaded 0 events
+180315  9:29:57 [Note] C:\Users\Administrator\Dropbox\ShoppingServer\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.37'  socket: ''  port: 3306  MySQL Community Server (GPL)
